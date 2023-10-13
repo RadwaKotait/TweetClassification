@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+matplotlib
+wordcloud
+nltk
+langdetect
+textblob
+scikit-learn
+langdetect
